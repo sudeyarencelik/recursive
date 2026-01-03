@@ -1,3 +1,4 @@
+**2310206007 SUDE YAREN ÇELİK BİLGİSAYAR MÜHENDİSLİĞİ 2. ÖĞRETİM**
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -59,3 +60,4 @@ int main() {
 
     return 0;
 }
+
